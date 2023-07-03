@@ -1,9 +1,11 @@
-a {
-  color: #007bff; /* Link color */
-  text-decoration: none; /* Remove underline */
-  transition: color 0.3s ease; /* Smooth color transition */
+
+
+h1 {
+  color: blue; /* Link color */
+  
 }
 
-a:hover {
-  color: #ff7f50; /* Link color on hover */
+h1:hover {
+  color: red; /* Link color */
+  
 }
